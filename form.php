@@ -51,7 +51,7 @@ class Form
                 echo "    <input type='text' name='" . $value[1] . "' placeholder='" .$value[2]. "' />\n"; 
             }
             else{
-                echo "    <input type='text' name='" . $value[1] . "' placeholder='enter value' />\n";
+                echo "    <input type='text' name='" . $value[1] . "' placeholder='Enter value' />\n";
             }
         }
         echo "    <button type='submit'>Post</button>\n</form>\n";
