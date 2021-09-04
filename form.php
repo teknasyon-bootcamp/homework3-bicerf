@@ -58,7 +58,6 @@ class Form
     }
 }
 
-//<input type="checkbox" disabled="disabled" checked="checked" name="is_ok" value="bike" id="id_is_ok"/>
 
 /**
  * UML diyagramında yer alan Form sınıfını oluşturmanız beklenmekte.
